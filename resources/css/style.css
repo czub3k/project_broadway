@@ -7,7 +7,7 @@ body {
 /* There is a problem with local .png background image - to solve */
 .navigation {
   /*background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);*/
-  background-image: url(../img/the-flatiron-building.png);
+  background-image: url(./img/the-flatiron-building.png);
  color: white;
  padding: 0;
  margin: 0;
@@ -49,7 +49,7 @@ p {
 .designed p {
   color: white;
   /*background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);*/
-  background-image: url(../img/the-flatiron-building.png);
+  background-image: url(./img/the-flatiron-building.png);
   font-size: 23px;
   font-weight: bold;
   background-color: dimgray;
